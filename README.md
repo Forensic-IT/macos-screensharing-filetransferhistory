@@ -64,3 +64,7 @@ Python 3. The parser uses Python standard-library modules only.
 ## Files
 
 `screen_sharing_transfer_history.py` is the parser. No case evidence, source plist or case-derived JSON output is included in this repository.
+
+## Citation
+
+https://doi.org/10.5281/zenodo.23876165
