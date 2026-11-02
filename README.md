@@ -2,6 +2,8 @@
 
 A small Python parser for `FileTransferHistory` records found in the per-user macOS Screen Sharing preference plist.
 
+Developed by Carlos Mejia-Hernandez at Forensic IT.
+
 Artefact path:
 
 ```text
